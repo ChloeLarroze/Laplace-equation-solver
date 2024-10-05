@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook that demonstrates the solution to th
 
 This project was completed during my second year of **Prépa**, which is an intensive two-year preparatory course in France for students aiming to enter engineering schools. It focuses on advanced mathematics, physics, and other sciences.
 
-![]('Capture d’écran 2024-10-05 à 22.28.16'.png)
+![](./result.png)
 
 
 
